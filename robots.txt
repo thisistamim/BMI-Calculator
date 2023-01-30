@@ -1,0 +1,2 @@
+User-agent: Googlebot
+Sitemap: https://github.com/tamimcpp/BMI-Calc/
