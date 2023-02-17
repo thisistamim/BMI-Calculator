@@ -16,7 +16,7 @@ The Centers for Disease Control and Prevention (CDC) recommends BMI categorizati
 
 ## How to calculate Body Mass Index
 
-Body Mass Index **(BMI)** is a simple calculation using a person’s height and weight. The formula is BMI = kg/m<sup>2</sup> where kg is a person’s weight in kilograms and m2 is their height in metres squared. This [project](https://tamimcpp.github.io/BMI-Calculator/) will help you find your BMI.
+Body Mass Index **(BMI)** is a simple calculation using a person’s height and weight. The formula is BMI = kg/m<sup>2</sup> where kg is a person’s weight in kilograms and m2 is their height in metres squared. This [project](https://mdtamimcpp.github.io/BMI-Calculator/) will help you find your BMI.
 
 <p align="center"> <img align="center" src=".image/BMI calc.png" width="100%"/> </p>
 
